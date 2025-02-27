@@ -1,0 +1,6 @@
+let name = prompt("mời bạn nhập tên")
+let age = prompt("mời bạn nhập tuổi")
+console.log(name)
+console.log(age)
+document.write(name)
+document.write(age)
